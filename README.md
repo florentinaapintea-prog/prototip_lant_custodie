@@ -1,5 +1,5 @@
 # Prototip: lanț de custodie verificabil criptografic pentru probe digitale
-
+https://doi.org/10.5281/zenodo.23519444
 Cod de cercetare care însoțește articolul *Probele digitale în procesul penal român* (secțiunea 5).
 Nu este destinat utilizării operaționale.
 
